@@ -1,3 +1,9 @@
+## Covid-19 RealTime Tracker
+
+This is a covid-19 tracker made using react and it shows number of cases,
+deaths and recoveries by country of the current Coronavirus infection.
+The website is [here](https://covid-19-tracker-91af8.web.app/). 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
